@@ -1,0 +1,45 @@
+# Homework_Assignment_1
+In Depth case study of the FinTech company Carta
+# CARTA: Changing The World Of Private Equity
+
+## Carta's Origin Story
+
+In the new technological age, it is now easier than ever for one to take ownership of publicly traded companies. Almost everyone has heard of the online platforms of ETrade & TD Ameritrade, to name a few. Gone are the days of calling your financial advisor to buy or sell shares in a public company for the advisor to then place orders with a stockbroker on your behalf. Over the past 20 years or so, regular-day citizens can just log into their electronic devices and make investing decisions in their hands with the click of a button. However, this problem had only previously been solved for public companies on the market that have gone through an IPO. There was still a need to be solved in the private sector, enter Carta.
+Carta was founded in the Silicon Valley area of San Francisco in the year 2012, then under the name of eShares. The company was founded by entrepreneur Henry Ward and serial investor Manu Kumar. The idea of the company was sprung by Henry Ward when he saw the need arise for venture-backed entities to electronically manage their equity and issue securities, along with having a more robust way for those private companies to track their capitalization tables. Since Carta is still a private company all their funding is done through private equity investors, angel investors, accredited investors, and venture capitalist firms. In 2015 the company raised $17M in a Series B round for their first major round of funding [^1]. On September 1st, 2017 they acquired competitor Silicon Valley Bank Analytics (SVBA), following up in October, of that same year, with a $42M Series C round of funding [^1]. In November of 2017, the company eShares changed its name to what is now Carta and that's when things really started to grow exponentially for the company. In December 2018 they raised $80M in a Series D round of funding, followed up in a May 2019 Series E round of an additional $300M raised. The most recent Series F & G rounds have raised over an additional $500M+, for a total amount raised of around $1.1 billion, equating to its most recent valuation at $7.4B [^1].
+
+## Business Activities  
+
+Up until the dream of Carta was manifested into existence, private companies were still being funded using outdated and archaic methods. If client John Doe wanted to invest in an up-and-coming startup running out of someone's garage, it could take up to 60 days or longer to close and cost upwards of $20,000 in legal fees, on top of the price of the actual investment, and you would receive an actual, physical paper stock certificate through the U.S. Postal service [^2]. Not only was this timely and expensive for John Doe, but it was also costly for the company as well. Carta provides start-ups and privately held companies a robust system of issuing and managing these types of securities, for both sides of the transaction. With the creation and implementation of Carta, companies can now issue shares electronically, to themselves and employees, making it cheaper not only for the company but the investor as well[^2]. Carta also solved the issue of cap table management. Cap Tables, or Capitalization Tables, are documents or tables that details who has ownership in a specific company like Carta[^3]. Cap Table management can become very cumbersome for start-up companies that undergo numerous rounds of funding and issue tens of thousands of new securities, within a relatively short time frame. Carta has put a, figuratively speaking, strangle-hold on the private equity and cap table management industry, holding 95% market share as of Q1 2021 according to Contrary.com [^4]. Carta has, of course, only been able to become this successful by leveraging technology to accomplish their goals. Per Stackshare, some of these applications and data technologies include jQuery, which is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML [^5]. Carta uses Amazon Web Service for cloud and internet services, as well as, Cloudshare for APIs, SaaS, and other internet services [^6].
+
+## Landscape
+
+While the world of private equity and capitalization management is in no way a new and trail-blazing endeavor, when it comes in terms of this domain in the world of financial technology, the path is very unpaved indeed. The FinTech branch of this domain is, relatively, only around 10-12 years old, with Carta itself being the first major player in this field and practically creating the industry in the process. Since the industry is still new the landscape and playing field are very fluid and constantly changing. Multiple competitors have come and gone from the industry as they struggle to make any significant impact. One of its original competitors, Assure, is now defunct, closing operations in 2022 [^7]. While Carta holds over a 90% lead in market share in the world of cap table management, that doesn't mean other entities will spring forward in hopes of being competitive in the market. One specific example is the company Pulley, which creates specially designed cap table management software and faster onboarding times, for startups, which is rapidly growing and holds a rating of 4.7/5 [^4]. Other minor players competing for market share include Certent, Astrella, Ledgy, and Shareworks, to name a few [^8]. One thing that Carta cannot do is become lackadaisical in their goals and execution as this puts Carta at risk of losing hold of their grip in the domain.
+
+## Results
+
+Carta's first 12 years of existence are no doubt a success story. Since their creation, Carta has globally managed over 2,200,000 equity owners, 30,000 companies, and $2.5 trillion in assets on their platform [^8] In November 2022, Henry Ward announced that Carta was on track to reach $330 million in annual recurring revenue, more than double the $150 million they earned, just a year before in 2021 [^4]. While Carta is indeed thriving on the grand scale of things, the current socio-economic environment has not left Carta feeling the blow though. Companies that initiated liquidity programs through Carta were down almost 30% in 2022, while total dollars transacted in liquidity programs declined by 58%, which led Carta to lay off 10% of its staff in January 2023 [^4]. Carta's incredibly hot start and substantial market share have allowed them to soften the blows and survive the downturns during the current fears of a recession, while their competitors like Assure have had to close down all business activities and liquidate.
+
+## Recommendations for the Future
+
+Since the financial technology of equity and cap table management is ever-rapidly changing, Carta will need to stay ambitious and proactive in the domain the keep their status as The Standard in the industry. One of Carts's most recent projects is the advent of Carta Liquidity, which functions like a private stock exchange, which was unheard of before the project's implementation. Shareholders of private companies can typically only liquidate positions via, IPO of the company or acquisition [^4]. Though celebrated in the media, IPO or acquisition is not the norm, with 7% of startups between 2011-2018 exiting, 0.8% of which via IPO [^4]. Carta Liquidity now offers options for shareholders to exchange liquidity more efficiently. While this is a great step in the right direction I believe that this provides a majority opportunity at hand for Carta. One of the greatest Risks for Carta is the event of a private company undertaking an Initial Public Offering and leaving the private sector. With that being said, I believe Carta should look into creating a joint platform for the public equity environment. I think it would be incredibly beneficial for Carta to look into creating a way of retaining clients and business instead of losing potential, and future opportunities when a company undergoes an IPO, something that is totally out of Carta's control. While this platform does not currently, Carta is experienced in creating industry and opportunity that was once unheard of. Not only would this be financially beneficial for Carta, financially, but it would also be extremely convenient and cheaper for shareholders to keep track of their securities all in one platform, making their lives easier and relieving financial stress. 
+ 
+### Sources
+
+[This is source 1](https://en.wikipedia.org/wiki/Carta_(software_company))
+
+[This is source 2](https://carta.com/blog/the-next-evolution-of-carta/
+)
+
+[This is source 3](https://carta.com/blog/what-is-a-cap-table/)
+
+[This is source 4](https://research.contrary.com/reports/carta?head=;;valuation)
+
+[This is source 5](https://stackshare.io/jquery)
+
+[This is source 6](https://stackshare.io/carta/carta)
+
+[This is source 7](https://www.axios.com/2022/11/23/assure-shutdown-fintech-startup-investing)
+
+[This is source 8](https://revpilots.com/2022/12/25/what-is-carta/)
+
+ 
